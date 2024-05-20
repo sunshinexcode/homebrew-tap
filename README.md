@@ -1,7 +1,7 @@
 # homebrew-tap
 
 ```sh
-$ brew tap youngjuning/homebrew-tap
+$ brew tap sunshinexcode/homebrew-tap
 ```
 
 ## tuya-panel-cli
@@ -9,14 +9,14 @@ $ brew tap youngjuning/homebrew-tap
 ### Install
 
 ```sh
-$ brew tap youngjuning/homebrew-tap
+$ brew tap sunshinexcode/homebrew-tap
 $ brew install tuya-panel-cli
 ```
 
 或者
 
 ```sh
-$ brew install youngjuning/tap/tuya-panel-cli
+$ brew install sunshinexcode/tap/tuya-panel-cli
 ```
 
 ### upgrade
